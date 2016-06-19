@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+body{
+    margin:15px;
+    border:3px ridge gray;
+    border-width:3px;
+    padding:0 15px 15px;
+    text-align:left;
+	  }
+		.fact-margin{
+			padding: 0 15px 15px 15px;
+		}
+		.fact-title{
+			font-weight: bold;
+			font-size: 18px;
+				}
+		.photo{
+     padding-bottom: 10px;
+		 width: 100%;
+		 height: 201px;
+	 		}
+		.text-area{
+			border:3px ridge gray;
+			padding:0 15px 15px
+		}
+    .flight-info{
+    font-style: italic;
+    }
+		.fact-label{
+			font-weight: bold;
+			font-style: normal;
+		}
+		.fact-unordered{
+			list-style: none;
+		  padding-left: 4px;
+		}
+		.fact-list{
+			font-style: italic;
+		}
